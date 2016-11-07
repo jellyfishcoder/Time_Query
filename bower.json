@@ -1,0 +1,24 @@
+{
+  "name": "Time_Query",
+  "homepage": "https://github.com/jellyfishcoder/Time_Query",
+  "authors": [
+    "Jellyfishcoder <jellyfishcoder@gmail.com>"
+  ],
+  "description": "A simple plugin for creating timelines using jQuery that can easily be customised with CSS.",
+  "main": "js/Time_Query.js",
+  "keywords": [
+    "timeline",
+    "jQuery",
+    "interactive",
+    "responsive",
+    "js"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
